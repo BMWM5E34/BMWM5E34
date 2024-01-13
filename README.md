@@ -1,3 +1,5 @@
+![Alt text](https://media.giphy.com/media/f5BwvEFBcgzU4/giphy.gif)
+
 ### Hey, everybody 🙈
 
 ### About me 
@@ -13,4 +15,4 @@
 
 #### Follow me bro!
 
-![The Weeknd](https://media.giphy.com/media/KB7Moe2Oj0BXeDjvDp/giphy.gif)
+
