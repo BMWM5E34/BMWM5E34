@@ -1,6 +1,8 @@
 ### Hey, everybody 🙈
 
-### About me
+### About me 
+
+#### I develop PC and mobile applications, telegram bots, automation scripts. I work with databases, backend systems, servers and hosting.
 
 
 
